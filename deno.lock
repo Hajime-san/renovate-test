@@ -1,7 +1,7 @@
 {
   "version": "5",
   "specifiers": {
-    "jsr:@luca/flag@1.0.0": "1.0.0",
+    "jsr:@luca/flag@1.0.1": "1.0.1",
     "jsr:@std/assert@*": "1.0.13",
     "jsr:@std/internal@^1.0.6": "1.0.10",
     "npm:@types/react@*": "19.1.12",
@@ -13,8 +13,8 @@
     "npm:rolldown-vite@latest": "7.1.5_picomatch@4.0.3"
   },
   "jsr": {
-    "@luca/flag@1.0.0": {
-      "integrity": "1c76cf54839a86d0929a619c61bd65bb73d7d8a4e31788e48c720dbc46c5d546"
+    "@luca/flag@1.0.1": {
+      "integrity": "dce7eb4159b1bdb1606fe05c2e5388dcff5ae3b0b84184b934bc623143742408"
     },
     "@std/assert@1.0.13": {
       "integrity": "ae0d31e41919b12c656c742b22522c32fb26ed0cba32975cb0de2a273cb68b29",
@@ -873,7 +873,7 @@
   },
   "workspace": {
     "dependencies": [
-      "jsr:@luca/flag@1.0.0",
+      "jsr:@luca/flag@1.0.1",
       "jsr:@std/assert@*",
       "npm:@types/react@*",
       "npm:chalk@4",
